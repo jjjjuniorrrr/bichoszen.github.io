@@ -212,7 +212,7 @@ var TxtType = function(el, toRotate, period) {
 
     function myMap() {
         var mapProp= {
-            center:new google.maps.LatLng(51.508742,-0.120850),
+            center:new google.maps.LatLng(-27.4390807,-48.3953075),
             zoom:5,
         };
         var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
